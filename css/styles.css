@@ -1,0 +1,132 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	margin:0px;
+	padding:0px;
+}
+
+.cell {
+    width:50px;
+    height:50px;
+    float: left;
+}
+
+.inp {
+    border-left:hidden;
+	border-right:hidden;
+	border-top:hidden;
+}
+
+.form {
+    border-left:hidden;
+	border-right:hidden;
+	border-top:hidden;
+	width:50px;
+}
+
+.form1{
+	margin: 0px 1px 1px 1px;
+}
+
+.th {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:10px;
+	font-weight:bold;
+}
+
+.consulta {
+	float: left;
+	width: 50px;
+	margin-left: 0px;
+	padding:2px;
+	font: Arial;
+	font-size: 12px;
+}
+.id {
+	visibility: hidden;
+}
+.abertura {
+    float: left;
+	margin-left:0px;
+	padding:2px;
+	width: 100px;
+	font: calibri;
+	font-size: 10px;
+	font-weight: bold;
+}
+
+.chamado {
+    float: left;
+	margin-left:2px;
+	padding: 0px;
+	width: 300px;
+	font: calibri;
+	font-size: 12px;
+}
+
+.obs {
+    float: left;
+	margin-left:0px;
+	height:100%;
+	width: 300px;
+	font: Arial;
+	font-size: 10px;
+	font-weight: bold;
+}
+
+.titulo {
+	float:left;
+	margin-left:0px;
+	width:800px;
+	font:calibri;
+	font-size:14px;
+	
+}
+
+.dataclient{
+	float:left;
+	margin:9px;
+	width:390px;
+	font:calibri;
+	font-size:10px;
+}
+
+.assclient {
+	float:left;
+	margin-left:0px;
+	width:390px;
+	border-top:1px solid #000;
+	font:calibri;
+	font-size:10px;
+	
+}
+
+
+h1 {
+	font:arial;
+	font-size: 25px;
+	text-align:center;
+}
+
+a.lnk1:link{
+	text-decoration:none;
+	font-family:calibri;
+	color:#FFF;
+}
+a.lnk1:visited{
+	text-decoration:none;
+	font-family:calibri;
+	color:#FFF;
+}
+a.lnk1:hover{
+	text-decoration:none;
+	font-family:calibri;
+	color:#FFF;
+}
+a.lnk1:active{
+	text-decoration:none;
+	font-family:calibri;
+	color:#FFF;
+}
+
+

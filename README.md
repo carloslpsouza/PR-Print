@@ -1,0 +1,3 @@
+# PT-Print
+Ferramenta para criação de Permissões de Trabalho para apoio ao setor de SESMT das empresas.
+Na empresa onde foi implementado, a organização dos serviços é centralizada na plataforma GLPI, todas as ordens de serviços do técnicos são controladas por ela. A ferramenta utiliza a base de dados do GLPI e o usuário preenche alguns poucos campos, seleciona as atividades a serem realizadas atraves do número do chamado. Em seguida basta imprimir a permissão
